@@ -74,8 +74,8 @@
         <div class="panels-container">
             <div class="panel left-panel">
                 <div class="content">
-                    <h3>New Here?</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis reiciendis itaque qui.</p>
+                    <h3>Belum punya akun?</h3>
+                    <p>Ayo daftarkan segera dirimu, agar bisa absen mata kuliah hari ini, ya!</p>
                     <button class="btn transparent" id="sign-up-btn">Sign up</button>
                 </div>
                 <img src="assets/image/male.svg" class="image" alt="">
@@ -83,8 +83,8 @@
 
             <div class="panel right-panel">
                 <div class="content">
-                    <h3>One of us?</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis reiciendis itaque qui.</p>
+                    <h3>Sudah punya akun?</h3>
+                    <p>Langsung log in aja, buruan keburu kehabisan waktu absen!</p>
                     <button class="btn transparent" id="sign-in-btn">Sign in</button>
                 </div>
                 <img src="assets/image/female.svg" class="image" alt="">
